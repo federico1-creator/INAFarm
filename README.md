@@ -1,4 +1,3 @@
 # INAFarm
-progetto team plexiglass
 
-https://prezi.com/view/IJBmD0SOaLXaSCzoMA5D/
+[progetto team plexiglass] (https://prezi.com/view/IJBmD0SOaLXaSCzoMA5D/)
