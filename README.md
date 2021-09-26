@@ -1,4 +1,5 @@
 # Project ALMA LABOR: INAFarm
+## [Presentazione del progetto](https://prezi.com/view/IJBmD0SOaLXaSCzoMA5D/)
 
 Progetto realizzato da un gruppo interdisciplinare, per la creazione di una *serra smart*.
 
@@ -14,11 +15,16 @@ di sensori di individuare le condizioni del terreno e di anaffiare di conseguenz
 I sensori utilizzati sono in grado di controllare il livello di luminosità, temperatura ed umidità.
 Essi sono poi controllati tramite un *Arduino* che ha il compito di ECU;
 acquisendo i dati, elaborandoli, visualizzarli sul display ed azionare l'attuatore.
+
+
+
 ![](/images/code.jpg)
 
 
 La struttura modulabile, composta da plastica e plexiglass, è stata progettata da noi e [stampata in 3D](https://www.youtube.com/watch?v=M3OrhrB3iYM&t=15s
 ) e poi assemblata.
+
+
 ![](/images/struttura2.jpg)
 
 
