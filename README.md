@@ -13,8 +13,8 @@ di sensori di individuare le condizioni del terreno e di anaffiare di conseguenz
 
 
 I sensori utilizzati sono in grado di controllare il livello di luminosità, temperatura ed umidità.
-Essi sono poi controllati tramite un *Arduino* che ha il compito di ECU;
-acquisendo i dati, elaborandoli, visualizzarli sul display ed azionare l'attuatore.
+Essi sono poi controllati tramite un *Arduino* che ha il compito di ECU.
+I dati vengono acquisiti, elaborati, visualizzati sul display. Inoltre la logica del ECU aziona l'attuatore per irrigare la pianta.
 
 
 
