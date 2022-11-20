@@ -9,6 +9,6 @@ Youtube video stampa in 3D: https://www.youtube.com/watch?v=M3OrhrB3iYM&t=15s
 sensori:
 - luce
 - temperatura
-- unidità
+- umidità
 - pompa acqua
 - display
